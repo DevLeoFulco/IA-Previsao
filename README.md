@@ -1,6 +1,6 @@
 # DEFINIÇÃO DE SCORE DE CRÉDITO DOS CLIENTES
 
-## Desafio
+## Cenário
 
 Você foi contratado por um banco com o objetivo de estabelecer um sistema de avaliação de crédito para seus clientes. A ideia é realizar uma análise abrangente de todos os clientes do banco e, com base nessas informações, criar um modelo que atribua automaticamente um score de crédito: Ruim, Ok, Bom.
 
